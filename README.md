@@ -112,7 +112,10 @@ acc_saver_V3/
 
 → Losing the file means losing access to saved accounts
 
-❓ FAQ
+
+
+##❓ FAQ
+
 Is this tool safe?
 
 → Yes. It uses bcrypt hashing and stores everything locally.
@@ -128,7 +131,9 @@ Can I recover passwords?
 Is this open source?
 
 → Yes.
-🚫 Project Status
+
+
+##🚫 Project Status
 
 ⚠️ THIS IS THE LAST VERSION OF THIS PROJECT
 No future updates are planned.
