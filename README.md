@@ -114,7 +114,7 @@ acc_saver_V3/
 
 
 
-###❓ FAQ
+## ❓ FAQ
 
 Is this tool safe?
 
@@ -133,7 +133,7 @@ Is this open source?
 → Yes.
 
 
-###🚫 Project Status
+## 🚫 Project Status
 
 ⚠️ THIS IS THE LAST VERSION OF THIS PROJECT
 No future updates are planned.
